@@ -156,7 +156,7 @@ main {
     margin-bottom: 48px;
 }
 
-.img-container{
+.img-container {
     display: flex;
 }
 
@@ -334,6 +334,12 @@ footer {
     align-items: center;
     margin-right: 300px;
 
+}
+
+.footer-description {
+
+    text-align: center;
+    margin-right: 300px;
 }
 
 footer h2 {
